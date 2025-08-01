@@ -10,7 +10,7 @@ header {
   background-color: #333333;
   color: #ffffff;
   padding: 10px 20px;
-  margin-bottom: 20px;
+  margin-bottom: 40px;
   text-align: center;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
   border-bottom: 3px solid #555555;
@@ -70,7 +70,7 @@ aside {
 
 main {
   margin-left: 320px;
-  padding: 10px 0 0 40px;
+  padding: 0px 0 0 60px;
   max-width: 800px;
 }
 
