@@ -8,7 +8,7 @@ body {
 header {
   height: 100px;
   background-color: #333333;
-  color: white;
+  color: #ffffff;
   padding: 10px 20px;
   margin-bottom: 20px;
   text-align: center;
@@ -48,7 +48,7 @@ header nav ul li:nth-child(4) {
 }
 
 header nav ul li a {
-  color: white;
+  color: #ffffff;
   text-decoration: none;
   display: inline-block;
   transition: transform 0.3s ease;
@@ -86,7 +86,7 @@ table {
 
 table th,
 table td {
-  border: 1px solid #ddd;
+  border: 1px solid #dddddd;
   padding: 8px;
 }
 
@@ -96,7 +96,7 @@ table tr:nth-child(even) {
 
 table th {
   background-color: #555555;
-  color: white;
+  color: #ffffff;
 }
 
 @keyframes fadeIn {
@@ -110,6 +110,6 @@ table th {
   }
 }
 
-main h1 {
+main {
   animation: fadeIn 1s ease-out;
 }
